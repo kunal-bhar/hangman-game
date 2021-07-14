@@ -1,7 +1,7 @@
 # hangman-game
 A simplistic recreation of the popular pen & paper game. 
 
-It uses a pre-defined set of 3-5 letter words and generates one at random per round for the user to guess. As you move up the ranks, difficulty increases and your score is recorded till the caricature of Hangman is complete.
+Application involves a pre-defined set of 3-5 letter words; generates one at random per round for you to guess. As you move up the ranks, the difficulty increases and your score is recorded till the caricature of Hangman is complete.
 
 Created: (10/2020)
 
